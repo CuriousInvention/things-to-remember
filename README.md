@@ -33,7 +33,7 @@
      ```
      @Service
      public class MyService {
-         
+     
          @Autowired
          private RestTemplate restTemplate; // or use WebClient in more recent versions
      
@@ -50,7 +50,3 @@
          }
      }
      ```
-     
-     
-   
-   
